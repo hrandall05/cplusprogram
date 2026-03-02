@@ -2,6 +2,8 @@
 
 int main(){
 
+    // g++ ~A.cpp 
+
     //how to pointers
     float number1 = 12.34; // variable number1 of type float
     float* pF = &number1; // pointer pF holds the address of number1
