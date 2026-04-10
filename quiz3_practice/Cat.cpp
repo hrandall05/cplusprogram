@@ -32,9 +32,9 @@ int Cat::getAge() const{
 
 //class Methods
 void Cat::printInfo() const{
-    std::cout<< "-----------------------\n";
+    std::cout<< "----------------------------\n";
     std::cout<< "Breed: " << getBreed() << "\n";
     std::cout<< "Name: " << getName() << "\n";
     std::cout<< "Age: " << getAge() << "\n";
-    std::cout<< "-----------------------\n";
+    std::cout<< "----------------------------\n";
 }
